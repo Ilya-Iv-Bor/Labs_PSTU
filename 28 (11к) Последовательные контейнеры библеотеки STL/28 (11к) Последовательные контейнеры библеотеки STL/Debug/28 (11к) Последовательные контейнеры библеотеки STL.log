@@ -1,0 +1,120 @@
+﻿  28 (11к) Последовательные контейнеры библеотеки STL.cpp
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(14,96): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(21,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL.cpp(21,22): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\ListStack.h(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\ListStack.h(68): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::stack<T,std::deque<T,std::allocator<T>>> copyVectorToStack<T>(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\ListStack.h(62): message : во время компиляции функции-члена класс шаблон "void ListStack<Money>::print(void)"
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ListStack<Money>::print(void)"
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL.cpp(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ListStack<Money>"
+  main1.cpp
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(34,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(68,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(74,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(84,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(95,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main1.cpp(105,22): warning C4018: <: несоответствие типов со знаком и без знака
+  main2.cpp
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(14,96): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(21,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(35,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(70,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(79,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(89,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(100,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main2.cpp(110,22): warning C4018: <: несоответствие типов со знаком и без знака
+  main3.cpp
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(14,96): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(21,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(16,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(42,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(41): message : во время компиляции функции-члена класс шаблон "void List<Money>::print(void)"
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Money>::print(void)"
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Money>"
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(49,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(47): message : во время компиляции функции-члена класс шаблон "T List<T>::arithmeticMean(void)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::arithmeticMean(void)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(63,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(61): message : во время компиляции функции-члена класс шаблон "T List<T>::maxElem(void)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::maxElem(void)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(72,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(71): message : во время компиляции функции-члена класс шаблон "void List<Money>::deleteElements(T)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Money>::deleteElements(T)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(82,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\List.hpp(81): message : во время компиляции функции-члена класс шаблон "void List<Money>::multiplyByValue(T)"
+          with
+          [
+              T=Money
+          ]
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main3.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Money>::multiplyByValue(T)"
+          with
+          [
+              T=Money
+          ]
+  main4.cpp
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(14,96): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(21,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main4.cpp(32,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main4.cpp(62,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\main4.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Money.cpp
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(14,96): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\28 (11к) Последовательные контейнеры библеотеки STL\Money.hpp(21,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+main1.obj : error LNK2005: _main уже определен в 28 (11к) Последовательные контейнеры библеотеки STL.obj
+main2.obj : error LNK2005: _main уже определен в 28 (11к) Последовательные контейнеры библеотеки STL.obj
+main3.obj : error LNK2005: _main уже определен в 28 (11к) Последовательные контейнеры библеотеки STL.obj
+main4.obj : error LNK2005: "public: class Money & __thiscall Money::operator=(class Money const &)" (??4Money@@QAEAAV0@ABV0@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Money &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVMoney@@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Money const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVMoney@@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: class Money __thiscall Money::operator*(class Money const &)" (??DMoney@@QAE?AV0@ABV0@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: class Money __thiscall Money::operator++(int)" (??EMoney@@QAE?AV0@H@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: class Money & __thiscall Money::operator++(void)" (??EMoney@@QAEAAV0@XZ) уже определен в main3.obj
+main4.obj : error LNK2005: "public: class Money __thiscall Money::operator+(int const &)" (??HMoney@@QAE?AV0@ABH@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: class Money __thiscall Money::operator+(class Money const &)" (??HMoney@@QAE?AV0@ABV0@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: class Money __thiscall Money::operator/(int const &)" (??KMoney@@QAE?AV0@ABH@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: bool __thiscall Money::operator<(class Money const &)" (??MMoney@@QAE_NABV0@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: "public: bool __thiscall Money::operator>(class Money const &)" (??OMoney@@QAE_NABV0@@Z) уже определен в main3.obj
+main4.obj : error LNK2005: _main уже определен в 28 (11к) Последовательные контейнеры библеотеки STL.obj
+Money.obj : error LNK2005: "public: class Money & __thiscall Money::operator=(class Money const &)" (??4Money@@QAEAAV0@ABV0@@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Money &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVMoney@@@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Money const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVMoney@@@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: class Money __thiscall Money::operator*(class Money const &)" (??DMoney@@QAE?AV0@ABV0@@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: class Money __thiscall Money::operator++(int)" (??EMoney@@QAE?AV0@H@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: class Money & __thiscall Money::operator++(void)" (??EMoney@@QAEAAV0@XZ) уже определен в main3.obj
+Money.obj : error LNK2005: "public: class Money __thiscall Money::operator+(int const &)" (??HMoney@@QAE?AV0@ABH@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: class Money __thiscall Money::operator+(class Money const &)" (??HMoney@@QAE?AV0@ABV0@@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: class Money __thiscall Money::operator/(int const &)" (??KMoney@@QAE?AV0@ABH@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: bool __thiscall Money::operator<(class Money const &)" (??MMoney@@QAE_NABV0@@Z) уже определен в main3.obj
+Money.obj : error LNK2005: "public: bool __thiscall Money::operator>(class Money const &)" (??OMoney@@QAE_NABV0@@Z) уже определен в main3.obj
+D:\Progect\28 (11к) Последовательные контейнеры библеотеки STL\Debug\28 (11к) Последовательные контейнеры библеотеки STL.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
