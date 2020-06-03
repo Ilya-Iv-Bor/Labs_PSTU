@@ -1,0 +1,29 @@
+﻿  Graph.cpp
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.h(34,24): warning C4091: extern : пропускается слева от "vertCoord", когда ни одна переменная не объявлена
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(96,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(97,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(128,20): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(153,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(154,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(158,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(159,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(163,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(163,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.h(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.h(76): message : во время компиляции функции-члена класс шаблон "int Graph<int>::getVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.h(147): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::getVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.h(64): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Lab31_main.cpp
+\\Mac\Home\Downloads\31_grafy\Lab31\Graph.h(34,24): warning C4091: extern : пропускается слева от "vertCoord", когда ни одна переменная не объявлена
+  Создание кода...
+  Lab31.vcxproj -> \\Mac\Home\Downloads\31_grafy\Debug\Lab31.exe
