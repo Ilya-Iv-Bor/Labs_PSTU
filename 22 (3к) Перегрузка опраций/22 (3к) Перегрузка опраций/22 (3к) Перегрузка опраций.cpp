@@ -8,22 +8,22 @@ using namespace std;
 
 int main() {
     setlocale(LC_ALL, "ru");
-    Money a;//конструктор без параметров
-    Money b; //конструктор без параметров
-    Money c; //конструктор без параметров
+   Dengi a; Dengi  b;  Dengi c; 
+   
+   
 
-    cin >> a; //ввод переменной
-    cin >> b; //ввод переменной
+    cin >> a; 
+    cin >> b;
 
-    ++a; // Префиксная операция инкремент
+    ++a; /
     cout << "Префиксная операция - инкремент\n";
-    cout << "a = " << a << endl << endl;//вывод переменной
+    cout << "a = " << a << endl << endl;
 
     if (a > b) cout << a << " > " << b << endl << endl;
     if (a < b) cout << a << " < " << b << endl << endl;
 
-    cout << "a = " << a << endl; //вывод переменной
-    cout << "b = " << b << endl; //вывод переменной
+    cout << "a = " << a << endl; 
+    cout << "b = " << b << endl; 
 }
 
 
