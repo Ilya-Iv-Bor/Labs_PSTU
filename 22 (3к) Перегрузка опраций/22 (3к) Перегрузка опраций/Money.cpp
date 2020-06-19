@@ -2,14 +2,6 @@
 #include "Money.h"
 using namespace std;
 
-// Перегрузка глобальной функции-операции ввода
-istream& operator >> (istream& in, Money& money) {
-    setlocale(LC_ALL, "ru");
-    cout << "Введите\nРубли: "; in >> money.rubs;
-    cout << "Копеки: "; in >> money.kopeks;
-    cout << endl;
-    return in;
-}
 
 // Перегрузка глобальной функции-операции вывода
 ostream& operator << (ostream& out, const Money& money) {
