@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-class Money {
+class Dengi {
     long rubs;
     int kopeks;
     
     public:
-    Money() {rubs = 0; kopeks = 0;};
-    Money(long r, int p) { rubs = r; kopeks = p; }
-    Money(const Money &pair) { rubs = pair.rubs; kopeks = pair.kopeks; }
+    Dengi(long r, int p) { rubs = r; kopeks = p; }
+    Dengi() {rubs = 0; kopeks = 0;};
+Dengi(const Dengi &pair) { rubs = pair.rubs; kopeks = pair.kopeks; }
     ~Money(){};
     
     long getRuble() {return rubs;}
@@ -17,9 +17,9 @@ class Money {
     void setPenny(double p) {kopeks = p;}
     
     // Перегруженные операции
-    Money& operator =(const Money&);
-    Money& operator ++();
-    Money operator ++(int); //постфиксная операция
+    Dengi& operator =(const Money&);
+    Dengi& operator ++();
+    Dengi operator ++(int); //постфиксная операция
     
     // Перегруженные операции сравнения
     friend bool operator >(const Money& lm, const Money& rm);
