@@ -1,0 +1,3 @@
+\\Mac\Home\Desktop\калькулятор\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+\\Mac\Home\Desktop\калькулятор\Project1\Debug\Project1.MyForm.resources
+\\Mac\Home\Desktop\калькулятор\Project1\Debug\Project1.vcxproj.GenerateResource.cache
